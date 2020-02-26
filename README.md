@@ -1,3 +1,5 @@
+-Basic springboot app using mybatis and H2
+
 ##VENDOR FEEDBACK SYSTEM
 
 Vendor Table Schema:
